@@ -2,7 +2,7 @@
 title: 人在塔在
 email: jiefeng.hopkins@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  All rights reserved @ Jie Feng
+  © 2015 Jie Feng. All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hophacker.github.io" # the base hostname & protocol for your site
 twitter_username: VonJ2
@@ -10,3 +10,5 @@ github_username:  hophacker
 
 # Build settings
 markdown: kramdown
+#gems: [jekyll-test-plugin, jekyll-jsonify, jekyll-assets]
+

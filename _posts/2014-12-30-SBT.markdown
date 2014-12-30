@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "SBT tutorial"
+date:  2014-12-30 03:50:25
+categories: scala
+---
+
+Resources
+---
+* [sbteclipse][sbteclipse-gt]
+
+[sbteclipse-gt]:     https://github.com/typesafehub/sbteclipse/
